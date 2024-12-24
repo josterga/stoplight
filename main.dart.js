@@ -52543,7 +52543,7 @@ case 3:return A.K(null,r)}})
 return A.L($async$l4,r)},
 Qa(){var s=this.x
 if(s!=null)s.aW()
-this.x=A.adI(A.ck(0,500),new A.Wd(this))},
+this.x=A.adI(A.ck(0,1000),new A.Wd(this))},
 Qb(){var s=this.x
 if(s!=null)s.aW()
 this.aC(new A.We(this))},
